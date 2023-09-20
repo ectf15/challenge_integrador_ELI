@@ -142,6 +142,7 @@ gap: var(--spacing-20);
     position: absolute;
     background-color: var(--dark-bg-solid);
     width: 300px;
+    z-index: 1;
 }
 
 .submenu__link {
